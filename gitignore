@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# VS Code
+.vscode/
+
+# Quarto / R Markdown
+*_cache/
+*.html
